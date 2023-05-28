@@ -1,9 +1,3 @@
-/* Write a procedure to update salary in emp table based on following rules.
-Exp< =35 then no Update
-Exp> 35 and <=38 then 20% of salary
-Exp> 38 then 25% of salary */
-
-
 
 Delimiter //
 create procedure up_sal()
