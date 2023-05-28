@@ -1,9 +1,3 @@
-/* Write a procedure that displays the following information of all emp
-Empno,Name,job,Salary,Status,deptno
-Note: - Status will be (Greater, Lesser or Equal) respective to average salary of their own
-department. */
-
-
 
 Delimiter //
 create procedure disp_avg1()
