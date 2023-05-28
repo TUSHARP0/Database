@@ -1,4 +1,3 @@
-/* write a procedure to display empno,ename,deptno,dname for all employees with sal > given salary. pass salary as a parameter to procedure */
 
 Delimiter //
 create procedure display_rec(in psal double(9,2))
