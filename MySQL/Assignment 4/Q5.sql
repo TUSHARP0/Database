@@ -1,4 +1,3 @@
-/* write a procedure to display all pid,pname,cid,cname and salesman name */
 
 Delimiter //
 create procedure dis_prod(in ppid int)
