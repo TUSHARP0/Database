@@ -1,5 +1,3 @@
-/* write a procedure to display all vehicles bought by a customer. pass cutome name as
-a parameter.(use vehicle,salesman,custome and relation table) */
 
 Delimiter //
 create procedure dis_veh(in pcname varchar(20))
