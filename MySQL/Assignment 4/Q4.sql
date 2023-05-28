@@ -1,4 +1,3 @@
-/* write a procedure to find min,max,avg of salary and number of employees in the given deptno. */
 
 DELIMITER //
 CREATE PROCEDURE DISPLAY_VAL(IN DNO INT)
