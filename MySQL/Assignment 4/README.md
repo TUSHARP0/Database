@@ -1,4 +1,5 @@
-Solve the following
+**Solve the following**
+
 1. write a procedure to insert record into employee table.
 the procedure should accept empno, ename, sal, job, hiredate as input parameter
 write insert statement inside procedure insert_rec to add one record into table
