@@ -1,0 +1,1 @@
+db.restaurent.find().pretty();
